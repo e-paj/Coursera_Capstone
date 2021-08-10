@@ -8,3 +8,6 @@ The assignments include:
 
 Projects include:
 * Final Assignment
+
+### Credits
+To IBM Data Science Specialization course in Coursera
